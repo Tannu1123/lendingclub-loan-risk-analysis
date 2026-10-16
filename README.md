@@ -180,8 +180,7 @@ lendingclub-loan-risk-analysis/
 ├── README.md
 ├── .gitignore
 ├── sql/                  # SQL analysis and business questions
-├── python/               # Python scripts for data preparation
-├── powerbi/              # Power BI dashboard (.pbix)
+├── python/               # Python scripts for data preparation              
 └── screenshots/          # Dashboard screenshots
 ```
 
